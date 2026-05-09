@@ -15,7 +15,7 @@
 
 // TEST_CASE_1
 // Input:
-// nums1 = [1,2,2,4]
+// nums = [1,2,2,4]
 
 // Output:
 // [2,3]
