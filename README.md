@@ -1,17 +1,18 @@
 # Problem Solving
 
-A collection of DSA and coding problems that I solve regularly to improve my problem-solving skills and logical thinking.
+This repository contains my solutions to Data Structures & Algorithms (DSA) and coding challenges solved in JavaScript. It serves as a record of my learning journey and helps me build consistency, improve logical thinking, and master problem-solving patterns.
 
-## Language
+## Tech Stack
 
 - JavaScript
 
-## Goal
+## Goals
 
-- Improve DSA skills
-- Build consistency
-- Learn problem-solving patterns
+- Practice DSA consistently
+- Improve algorithmic thinking
+- Learn common problem-solving patterns
+- Track my progress over time
 
-## Author
+---
 
-Kunal Kumar Soni
+**Author:** Kunal Kumar Soni
