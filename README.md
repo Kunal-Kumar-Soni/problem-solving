@@ -11,7 +11,6 @@ This repository contains my solutions to Data Structures & Algorithms (DSA) and 
 - Practice DSA consistently
 - Improve algorithmic thinking
 - Learn common problem-solving patterns
-- Track my progress over time
 
 ---
 
